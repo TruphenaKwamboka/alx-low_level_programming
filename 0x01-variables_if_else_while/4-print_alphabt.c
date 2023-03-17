@@ -1,6 +1,5 @@
 /*
- * File: 4-print_alphabt.c
- * Auth: Brennan D Baraban
+ * File: 4-print_alphabet.c
  */
 
 #include <stdio.h>
