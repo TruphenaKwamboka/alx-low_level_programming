@@ -3,4 +3,4 @@ clear
 
 read -p "Enter name of file: " filename
 
-vim 0x01-variables_if_else_while/$filename && chmod +x 0x01-variables_if_else_while/$filename
+vim 0x02-functions_nested_loops/$filename && chmod +x 0x02-functions_nested_loops/$filename
