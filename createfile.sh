@@ -3,4 +3,4 @@ clear
 
 read -p "Enter name of file: " filename
 
-vim 0x06-pointers_arrays_strings/$filename
+vim 0x07-pointers_arrays_strings/$filename
