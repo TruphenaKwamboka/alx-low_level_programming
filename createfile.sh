@@ -3,4 +3,4 @@ clear
 
 read -p "Enter name of file: " filename
 
-vim 0x0F-function_pointers/$filename
+vim 0x10-variadic_functions/$filename
