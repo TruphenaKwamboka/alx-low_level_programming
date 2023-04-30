@@ -6,7 +6,7 @@
  * in a linked listint_t list.
  * @h: head pointer
  *
- * return: returns the number of elements in listint_t
+ * Return: returns the number of elements in listint_t
  */
 size_t listint_len(const listint_t *h)
 {
