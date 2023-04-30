@@ -11,11 +11,12 @@
 
 /**
  * struct listint_s - singly linked list
- * n: integer
- * next: points to next node
+ * @n: integer
+ * @next: points to next node
  *
  * Description:more singly linked list node structure
  * for alx-c project
+ * listint_s *next - its for next item
  */
 typedef struct listint_s
 {

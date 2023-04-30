@@ -8,7 +8,7 @@
 
 /**
  * print_listint -All the elements of listint_t are printed.
- * h: points to the head of the list_t list.
+ * @h: points to the head of the list_t list.
  *
  * Return: Number of nodes.
  */
