@@ -32,9 +32,8 @@ listint_t *find_listint_loop(listint_t *head)
 
 			return (snake);
 		}
-
-                snake = snake->next;
-		hare = (hare->next)->next;
+snake = snake->next;
+hare = (hare->next)->next;
 	}
 
 	return (NULL);
